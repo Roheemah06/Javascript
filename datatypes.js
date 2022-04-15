@@ -11,30 +11,28 @@ console.log(typeof V);
 console.log(typeof R);
 
 //Declare variables without assigning values
-let j;
-let g;
-let b;
-let l;
+let j
+let g
+let b
+let l
 
 //declare four variables with assigned value
-let X = "Olaniyi"
-let Y = "Lautech"
+let A = "Olaniyi"
+let B = "Lautech"
 let C = false
-let k = 0.25
+let D = 0.25
 
 //Declare a variable to store your firstName, lastName, maritalstatus,country, age
 
-let Roheemah{
-  firstName = `Roheemah`
-  lastName = `Olaniyi`
-  maritalstatus = `Single`
-  Country = `Nigeria`
-  Age = `25`
-}
+//let firstName, lastName, maritalstatus, Country, Age;
 //declare a variable to store your firstname,lastname,marital status,country and age on a single line
-let firstName = `Roheemah`, lastName = `Olaniyi`, maritalstatus = `Single,  Country = `Nigeria`, Age = 25
+let firstName;
+let lastName;
+let country;
+let maritalstatus;
+let age;
 
 const myAge = 25
 const yourAge = 30
-console.log(I am + 'myAge' + years old.)
-console.log(You are + 'yourAge' + years old.)
+console.log( 'I am ' + myAge + ' years old.')
+console.log('You are '  + yourAge + ' years old.')

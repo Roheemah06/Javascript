@@ -1,5 +1,5 @@
 let variables;
-variable1 = 'Roheemah'
-variable2 = true
-variable3
-variable4 = null
+let variable1 = 'Roheemah';
+let variable2 = true;
+let variable3;
+let variable4 = null;
